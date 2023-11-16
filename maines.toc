@@ -1,0 +1,14 @@
+## Interface: 52106
+## Version: fartbox
+## Title: Maines
+## Notes: Give Your Main Name Some Chat Frame
+## Author: Universa / Dominic Hughes
+
+## SavedVariables: WelcomeHomeDB
+## OptionalDeps: Ace3
+Libs\LibDBIcon-1.0\embeds.xml
+embeds.xml
+
+maines.lua
+
+
