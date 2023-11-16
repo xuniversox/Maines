@@ -1,7 +1,7 @@
 # Maines
 
 Sick and tired of having to tell everyone who your main is; maybe your using an archaic and obsolete addon to make it happen through chat however
-with Maines it's an contemporary more and or less update with more customizable features and a visually user-friendly interface
+with Maines it's an contemporary more and or less update with customizable features and a visually user-friendly interface
 
 It's so simple to use; basically type /maines and type in the very obvious edit box in the middle exactly your mains name with the spaces after 
 
