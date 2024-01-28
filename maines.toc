@@ -4,11 +4,14 @@
 ## Notes: Give Your Main Name Some Chat Frame
 ## Author: Universa / Dominic Hughes
 
-## SavedVariables: WelcomeHomeDB
-## OptionalDeps: Ace3
-Libs\LibDBIcon-1.0\embeds.xml
-embeds.xml
 
-maines.lua
+## SavedVariablesPerCharacter:
+## SavedVariables: Maines_DB, Maines_Name_DB, Maines_Bracket_Option_DB, Maines_Bracket_Left_DB, Maines_Bracket_Right_DB, PlayedMusic_DB Spaces_Option_DB, Maines_Chat_Options_DB
+
+## OptionalDeps: Ace3
+
+
+embeds.xml
+maines.xml
 
 
